@@ -6,9 +6,8 @@
 Nome: [João Augusto Moreira Cunha]
 Matricula: [891121]
 
-## Tela de inspeção com navegadorPrint da inspeção de rede feita no navegador:  
-Print da inspeção de rede feita no navegador:  
-![Inspeção de Rede](inspecao_rede_youtube.png)
+## Tela de inspeção com navegador
+
 
 ## Tela de projeto no Replit
 Print do projeto "Hello World" no Replit:  
